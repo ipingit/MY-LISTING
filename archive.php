@@ -1,7 +1,7 @@
 <?php
 /**
  * The template for displaying archive pages.
- *
+ *new code
  * @since 1.0.0
  */
 get_header();
